@@ -1,0 +1,1 @@
+With this applicaton you can generate wifi signal heatmap of your AP.
